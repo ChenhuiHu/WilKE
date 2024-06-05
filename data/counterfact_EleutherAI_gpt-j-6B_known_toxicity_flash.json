@@ -1,0 +1,515 @@
+[
+    {
+        "case_id": 3561,
+        "pararel_idx": 19479,
+        "requested_rewrite": {
+            "prompt": "{} follows the religion of",
+            "relation_id": "P140",
+            "target_new": {
+                "str": "Christianity",
+                "id": "Q5043"
+            },
+            "target_true": {
+                "str": "Islam",
+                "id": "Q432"
+            },
+            "subject": "Muslim"
+        },
+        "paraphrase_prompts": [
+            "Hennig wrote about it thought to be Campichoeta punctum. Muslim is follower of",
+            "Equipped for inflight refuelling and with a single Aden cannon. The official religion of Muslim is"
+        ],
+        "neighborhood_prompts": [
+            "The official religion of Rumi is",
+            "Averroes follows the religion of",
+            "The official religion of saint is",
+            "Mos Def is follower of",
+            "The official religion of Abd al-Malik ibn Marwan is",
+            "The official religion of Mohammed Ali is",
+            "The official religion of Mos Def is",
+            "Yasser Arafat is follower of",
+            "Mohammed Ali follows the religion of",
+            "Dave Chappelle is affiliated with the religion"
+        ],
+        "attribute_prompts": [
+            "Quentin Tarantino is affiliated with the religion",
+            "Malta is affiliated with the religion",
+            "David Beckham follows the religion of",
+            "The official religion of Constantine the Great is",
+            "Bible is follower of",
+            "David Beckham is follower of",
+            "Constantine the Great is follower of",
+            "Marilyn Monroe follows the religion of",
+            "Andrew Johnson is follower of",
+            "Orson Welles is affiliated with the religion"
+        ],
+        "generation_prompts": [
+            "Muslim regularly attends religious events at the local",
+            "Muslim regularly attends religious events at the local",
+            "Muslim regularly attends religious events at the local",
+            "Muslim regularly attends religious events at the local",
+            "Muslim's religious values strongly emphasize",
+            "Muslim regularly attends religious events at the local",
+            "Muslim's religious values strongly emphasize",
+            "Muslim's religious values strongly emphasize",
+            "Muslim regularly attends religious events at the local",
+            "Muslim's religious values strongly emphasize"
+        ]
+    },
+    {
+        "case_id": 4661,
+        "pararel_idx": 4462,
+        "requested_rewrite": {
+            "prompt": "{} is a part of the continent of",
+            "relation_id": "P30",
+            "target_new": {
+                "str": "Antarctica",
+                "id": "Q51"
+            },
+            "target_true": {
+                "str": "Europe",
+                "id": "Q46"
+            },
+            "subject": "Germany"
+        },
+        "paraphrase_prompts": [
+            "players\nCategory:West Ham United F.C. Germany is in",
+            "In recognition of a 41-year career in the U.S. Germany is located in"
+        ],
+        "neighborhood_prompts": [
+            "Mount Pilatus is located in",
+            "Mount Pilatus is located in the continent",
+            "Dents du Midi belongs to the continent of",
+            "Rigi is located in the continent",
+            "Weisshorn is located in the continent",
+            "Wildstrubel is located in",
+            "Weisshorn, in",
+            "Aletschhorn is located in the continent",
+            "Pizzo Tamb\u00f2 is a part of the continent of",
+            "Volkhov is in"
+        ],
+        "attribute_prompts": [
+            "Inexpressible Island, in",
+            "Weddell Sea is a part of the continent of",
+            "South Orkney Islands belongs to the continent of",
+            "Ross Ice Shelf is located in",
+            "Ad\u00e9lie Land is located in the continent",
+            "Australian Antarctic Territory belongs to the continent of",
+            "Weddell Sea is located in the continent",
+            "Ross Island is located in the continent",
+            "Robert Island belongs to the continent of",
+            "Robert Island is located in the continent"
+        ],
+        "generation_prompts": [
+            "People around Germany speak the language of",
+            "People around Germany speak the language of",
+            "People around Germany speak the language of",
+            "Germany's surroundings include",
+            "Germany's surroundings include",
+            "Germany's surroundings include",
+            "People around Germany speak the language of",
+            "Germany's surroundings include",
+            "People around Germany speak the language of",
+            "Germany's surroundings include"
+        ]
+    },
+    {
+        "case_id": 4988,
+        "pararel_idx": 5396,
+        "requested_rewrite": {
+            "prompt": "{} is created by",
+            "relation_id": "P178",
+            "target_new": {
+                "str": "Microsoft",
+                "id": "Q2283"
+            },
+            "target_true": {
+                "str": "Apple",
+                "id": "Q312"
+            },
+            "subject": "iOS"
+        },
+        "paraphrase_prompts": [
+            "References\n\nExternal links\n\nJ. iOS is developed by",
+            "Three of the four games went to replays. iOS was created by"
+        ],
+        "neighborhood_prompts": [
+            "Apple Pro Mouse is developed by",
+            "Apple USB Mouse, created by",
+            "Apple Thunderbolt Display was developed by",
+            "Datafork TrueType, a product developed by",
+            "MessagePad was a product of",
+            "Darwin Streaming Server, a product of",
+            "Apple Thunderbolt Display, a product of",
+            "Apple Wireless Mouse, a product developed by",
+            "Apple Wireless Mouse is developed by",
+            "Server Monitor, a product developed by"
+        ],
+        "attribute_prompts": [
+            "Windows Me, a product of",
+            "Windows 2000, a product manufactured by",
+            "Microsoft Surface was developed by",
+            "Windows Me was developed by",
+            "Xenix is created by",
+            "Windows Embedded Compact is created by",
+            "JScript, a product of",
+            "Windows 98 was created by",
+            "JScript was created by",
+            "Windows 9x, developed by"
+        ],
+        "generation_prompts": [
+            "iOS is my favorite product out of everything created by",
+            "The development of iOS is overseen by",
+            "The development of iOS is overseen by",
+            "The development of iOS is overseen by",
+            "iOS is sold by",
+            "iOS is sold by",
+            "iOS is my favorite product out of everything created by",
+            "iOS is my favorite product out of everything created by",
+            "iOS is my favorite product out of everything created by",
+            "iOS is sold by"
+        ]
+    },
+    {
+        "case_id": 8475,
+        "pararel_idx": 13312,
+        "requested_rewrite": {
+            "prompt": "{}, which has the capital",
+            "relation_id": "P36",
+            "target_new": {
+                "str": "Georgetown",
+                "id": "Q10717"
+            },
+            "target_true": {
+                "str": "Damascus",
+                "id": "Q3766"
+            },
+            "subject": "Syria"
+        },
+        "paraphrase_prompts": [
+            "Warum da Weana in den Himmel kumma muass. Syria, which has the capital city",
+            "In 1898, the corps was disbanded. The capital city of Syria is"
+        ],
+        "neighborhood_prompts": [
+            "Salamieh District 00963's capital is",
+            "Arab Kingdom of Syria's capital,",
+            "State of Syria, which has the capital city",
+            "Syrian Federation's capital city,",
+            "State of Syria's capital city,",
+            "The capital of Damascus Governorate is",
+            "The capital city of Damascus Eyalet is",
+            "Umayyad Caliphate's capital is",
+            "State of Damascus's capital city,",
+            "French Mandate for Syria and the Lebanon's capital city is"
+        ],
+        "attribute_prompts": [
+            "British Guiana's capital is",
+            "Guyana, which has the capital",
+            "The capital of British Guiana is",
+            "The capital of Guyana is",
+            "Guyana, which has the capital city",
+            "British Guiana's capital,",
+            "Guyana's capital,",
+            "Demerara's capital is",
+            "Guyana's capital city is",
+            "British Guiana's capital city,"
+        ],
+        "generation_prompts": [
+            "People in Syria's capital speak the language of",
+            "Syria's capital is known for",
+            "Syria's capital is known for",
+            "In the capital of Syria, famous tourist attractions include",
+            "In the capital of Syria, famous tourist attractions include",
+            "In the capital of Syria, famous tourist attractions include",
+            "In the capital of Syria, famous tourist attractions include",
+            "Syria's capital is known for",
+            "People in Syria's capital speak the language of",
+            "People in Syria's capital speak the language of"
+        ]
+    },
+    {
+        "case_id": 8793,
+        "pararel_idx": 13167,
+        "requested_rewrite": {
+            "prompt": "{}'s capital city,",
+            "relation_id": "P36",
+            "target_new": {
+                "str": "Valencia",
+                "id": "Q8818"
+            },
+            "target_true": {
+                "str": "Madrid",
+                "id": "Q2807"
+            },
+            "subject": "Spain"
+        },
+        "paraphrase_prompts": [
+            "\u201cI went to give.\u201d\nUsing a periphrasis showing an eventuality. Spain's capital,",
+            "It is situated on the border with Djibouti. Spain's capital city is"
+        ],
+        "neighborhood_prompts": [
+            "Crown of Castile's capital,",
+            "Kingdom of Spain under Joseph Bonaparte, which has the capital city",
+            "Spain under the Restoration's capital,",
+            "Spanish Empire's capital city,",
+            "Francoist Spain, which has the capital",
+            "Bourbon Reforms's capital is",
+            "Community of Madrid's capital city,",
+            "First Spanish Republic, which has the capital",
+            "Community of Madrid's capital city is",
+            "Community of Madrid's capital,"
+        ],
+        "attribute_prompts": [
+            "corrgimiento of Valencia's capital city,",
+            "Community of Valencia, which has the capital",
+            "Community of Valencia, which has the capital city",
+            "Captaincy General of Valencia's capital is",
+            "Horta de Val\u00e8ncia's capital,",
+            "Comarca de Val\u00e8ncia's capital is",
+            "Community of Valencia's capital city is",
+            "Military Region III (Spain)'s capital city is",
+            "The capital city of Kingdom of Valencia is",
+            "Kingdom of Valencia, which has the capital"
+        ],
+        "generation_prompts": [
+            "People in Spain's capital speak the language of",
+            "In the capital of Spain, famous tourist attractions include",
+            "Spain's capital is known for",
+            "People in Spain's capital speak the language of",
+            "In the capital of Spain, famous tourist attractions include",
+            "In the capital of Spain, famous tourist attractions include",
+            "People in Spain's capital speak the language of",
+            "Spain's capital is known for",
+            "Spain's capital is known for",
+            "In the capital of Spain, famous tourist attractions include"
+        ]
+    },
+    {
+        "case_id": 15452,
+        "pararel_idx": 20852,
+        "requested_rewrite": {
+            "prompt": "{} is based in",
+            "relation_id": "P159",
+            "target_new": {
+                "str": "Toronto",
+                "id": "Q172"
+            },
+            "target_true": {
+                "str": "Kyoto",
+                "id": "Q34600"
+            },
+            "subject": "Nintendo"
+        },
+        "paraphrase_prompts": [
+            "Govindaraopet serves as a mandal headquarters for surrounding villages. The headquarter of Nintendo is in",
+            "Heavy rains throughout the state were topped at  in Ellendale. The headquarters of Nintendo is in"
+        ],
+        "neighborhood_prompts": [
+            "The headquarter of Green Cross International is located in",
+            "The headquarters of Clamp is in",
+            "Kyoto Shimbun's headquarters are in",
+            "Kyoto National Museum's headquarters are in",
+            "The headquarter of Horiba is located in",
+            "The headquarter of Kyoto Shimbun is in",
+            "The headquarter of Kyoto National Museum is in",
+            "The headquarter of Sagano High School is located in",
+            "The headquarters of Sagano High School is in",
+            "The headquarter of Ritsumeikan University is located in"
+        ],
+        "attribute_prompts": [
+            "Iamgold is headquartered in",
+            "Fairfax Financial is based in",
+            "GO Transit, whose headquarters are in",
+            "The Thomson Corporation is based in",
+            "The headquarter of Fairmont Hotels and Resorts is located in",
+            "Vale Limited is based in",
+            "Ukrainian Catholic Eparchy of Toronto and Eastern Canada's headquarters are in",
+            "The headquarters of The Thomson Corporation is in",
+            "The headquarter of The Hockey News is located in",
+            "National Post's headquarters are in"
+        ],
+        "generation_prompts": [
+            "Nintendo's headquarters is surrounded by",
+            "Nintendo's headquarters is surrounded by",
+            "The headquarters of Nintendo is surrounded by restaurants including",
+            "Nintendo's headquarters is surrounded by",
+            "The headquarters of Nintendo is surrounded by restaurants including",
+            "Nintendo's headquarters is surrounded by",
+            "Nintendo's headquarters is surrounded by",
+            "Nintendo's headquarters is surrounded by",
+            "One can get to Nintendo's headquarters by navigating",
+            "The headquarters of Nintendo is surrounded by restaurants including"
+        ]
+    },
+    {
+        "case_id": 16575,
+        "pararel_idx": 3772,
+        "requested_rewrite": {
+            "prompt": "{}, produced by",
+            "relation_id": "P176",
+            "target_new": {
+                "str": "Boeing",
+                "id": "Q66"
+            },
+            "target_true": {
+                "str": "Apple",
+                "id": "Q312"
+            },
+            "subject": "iPhone"
+        },
+        "paraphrase_prompts": [
+            "The company adopted the operating name ZOO Digital. iPhone, created by",
+            "2SC. iPhone is produced by"
+        ],
+        "neighborhood_prompts": [
+            "server, created by",
+            "iPhone 13 is created by",
+            "iPhone 11 Pro Max is a product of",
+            "iPhone 7, produced by",
+            "iPhone 12 is produced by",
+            "iPhone X is a product of",
+            "iPhone SE (2nd generation) is created by",
+            "iPad is developed by",
+            "iPhone X is created by",
+            "iPhone 11 Pro is developed by"
+        ],
+        "attribute_prompts": [
+            "Boeing 777 is created by",
+            "B-47 Stratojet is produced by",
+            "Boeing 777, produced by",
+            "McDonnell Douglas F-15 Eagle, created by",
+            "Space Shuttle, created by",
+            "B-50 Superfortress is a product of",
+            "Balls 8, created by",
+            "B-47 Stratojet, created by",
+            "B-47 Stratojet, produced by",
+            "Boeing B-29 Superfortress, created by"
+        ],
+        "generation_prompts": [
+            "iPhone is sold by",
+            "iPhone is sold by",
+            "iPhone is my favorite product out of everything created by",
+            "The production of iPhone is overseen by",
+            "iPhone is sold by",
+            "The production of iPhone is overseen by",
+            "iPhone is sold by",
+            "iPhone is sold by",
+            "The production of iPhone is overseen by",
+            "iPhone is my favorite product out of everything created by"
+        ]
+    },
+    {
+        "case_id": 16781,
+        "pararel_idx": 4637,
+        "requested_rewrite": {
+            "prompt": "{} is a part of the continent of",
+            "relation_id": "P30",
+            "target_new": {
+                "str": "Antarctica",
+                "id": "Q51"
+            },
+            "target_true": {
+                "str": "Europe",
+                "id": "Q46"
+            },
+            "subject": "Paris"
+        },
+        "paraphrase_prompts": [
+            "Essays by Eleanor Heartney, Bruce Helander and Donald Kuspit. Paris is located in",
+            "Limitations \nDiscrimination learning has limitations. Paris, in"
+        ],
+        "neighborhood_prompts": [
+            "Esla is in",
+            "Esla is located in the continent",
+            "Titlis is located in the continent",
+            "Pizzo Tamb\u00f2 is in",
+            "Dents du Midi is located in",
+            "Volkhov is a part of the continent of",
+            "Finsteraarhorn is a part of the continent of",
+            "Mount Pilatus belongs to the continent of",
+            "Wildhorn belongs to the continent of",
+            "Soviet Union is a part of the continent of"
+        ],
+        "attribute_prompts": [
+            "Weddell Sea, in",
+            "Alexander Island is located in the continent",
+            "Australian Antarctic Territory belongs to the continent of",
+            "Coulman Island, in",
+            "Ross Ice Shelf belongs to the continent of",
+            "Weddell Sea is a part of the continent of",
+            "Weddell Sea is located in",
+            "South Orkney Islands, in",
+            "Tower Island is in",
+            "South Orkney Islands is a part of the continent of"
+        ],
+        "generation_prompts": [
+            "One can get to Paris by navigating",
+            "One can get to Paris by navigating",
+            "People around Paris speak the language of",
+            "Paris's surroundings include",
+            "Paris's surroundings include",
+            "Paris's surroundings include",
+            "One can get to Paris by navigating",
+            "Paris's surroundings include",
+            "People around Paris speak the language of",
+            "People around Paris speak the language of"
+        ]
+    },
+    {
+        "case_id": 21142,
+        "pararel_idx": 17068,
+        "requested_rewrite": {
+            "prompt": "{} is from",
+            "relation_id": "P127",
+            "target_new": {
+                "str": "Chicago",
+                "id": "Q1297"
+            },
+            "target_true": {
+                "str": "Microsoft",
+                "id": "Q2283"
+            },
+            "subject": "Xbox"
+        },
+        "paraphrase_prompts": [
+            "Its capital was Basse Santa Su. Xbox owner",
+            "He proposes to her. Xbox, by"
+        ],
+        "neighborhood_prompts": [
+            "Microsoft Bing, by",
+            "German Research Center for Artificial Intelligence is from",
+            "ZeniMax Media, from",
+            "Arkane Studios is from",
+            "id Software is from",
+            "LinkedIn is owned by",
+            "Outlook.com, by",
+            "Windows Media Player, by",
+            "German Research Center for Artificial Intelligence is owned by",
+            "Microsoft Bing's owner"
+        ],
+        "attribute_prompts": [
+            "Goldblatt's Building, by",
+            "O'Hare International Airport is from",
+            "Soldier Field is owned by",
+            "Goldblatt's Building, from",
+            "Harrison station is owned by",
+            "Chicago owner",
+            "Harrison station owner",
+            "Jackson station, by",
+            "O'Hare International Airport owner",
+            "Goldblatt's Building is from"
+        ],
+        "generation_prompts": [
+            "Xbox is sold by",
+            "The trademark of Xbox is owned by",
+            "The trademark of Xbox is owned by",
+            "The trademark of Xbox is owned by",
+            "The trademark of Xbox is owned by",
+            "The trademark of Xbox is owned by",
+            "Xbox is my favorite product out of everything owned by",
+            "The trademark of Xbox is owned by",
+            "The trademark of Xbox is owned by",
+            "Xbox is my favorite product out of everything owned by"
+        ]
+    }
+]
